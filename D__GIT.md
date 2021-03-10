@@ -21,3 +21,9 @@
 =================================
 -  git clone đường dẫn : để tải project từ trên mạng về máy tính
 - git code tên project:  để mở project lên visualcode
+
+===================================
+-  Để lấy dữ liệu từ git trên mạng về sử dụng lệnh git
+- git pull origin "master" : Cập nhập lại file code từ trên mạng về 
+
+- code .  : Mở file code lên visualcode
