@@ -19,6 +19,9 @@
 
 - git checkout mã file ở thời gian muốn cập nhật lại -- tên file muốn cập nhập lại :  Cập nhật lại file đã xóa
 =================================
+lưu ý: trước tiên tạo 1 file mới trên máy tính => sau đó vào trong file mới tạo => trỏ lên đường dẫn  { cạnh bên thanh tìm kiếm } => sau đó gõ
+" CMD "  để mở Terminal = > gõ git clone đường dẫn { foder git trên mạng vào phần HTTP để copy đường dẫn}
+
 -  git clone đường dẫn : để tải project từ trên mạng về máy tính
 - git code tên project:  để mở project lên visualcode
 
